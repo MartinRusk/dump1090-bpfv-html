@@ -105,7 +105,7 @@ DefaultSiteCirclesBaseDistance = 20;
 DefaultSiteCirclesInterval = 20;
 
 // Controls page title, righthand pane when nothing is selected
-PageName = "BPFV Skymon";
+PageName = "BPFV SkyMon";
 
 // Show country flags by ICAO addresses?
 ShowFlags = true;
