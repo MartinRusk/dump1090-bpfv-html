@@ -22,7 +22,7 @@ html, body {
 	height: 100%;
 }
 #sidebar_canvas { 
-    	padding: 10px;
+    padding: 10px;
 	overflow: auto;
 }
 #sidebar_container {
@@ -186,6 +186,7 @@ div#update_error { position: absolute; bottom: 25px; left: 25px; border: 2px sol
     text-align: center; }
 
 div#loader { z-index: 99; position: absolute; left: 0; top: 0; bottom: 0; right: 0; background: #000; opacity: 0.8; filter: alpha(opacity=80); }
+#bpfv_logo { width: 121px; height: 46px; position: absolute; top: 50%; left: 50%; margin: -23px 0 0 -60px; }
 #spinny { width: 128px; height: 128px; position: absolute; top: 50%; left: 50%; margin: -64px 0 0 -64px; }
 #loader_progress { width: 250px; height: 20px; position: absolute; top: 50%; left: 50%; margin: 128px 0 0 -125px; }
 
